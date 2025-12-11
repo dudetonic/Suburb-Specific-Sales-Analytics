@@ -1,2 +1,2 @@
 # Suburb-Specific-Sales-Analytics
-This description clearly outlines the problem solved (tracking performance across geographical areas) and the solution (a data-driven dashboard).
+A data analysis and business intelligence project focused on transforming raw sales data into actionable, location-based insights. The primary goal is to provide a granular view of performance by tracking key metrics and trends across specific suburbs and local markets. The output is a multi-dimensional visualization suite (dashboards) designed for strategic resource allocation, sales forecasting, and identifying geographically-driven growth opportunities.
